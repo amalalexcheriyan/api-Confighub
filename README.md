@@ -1,2 +1,2 @@
-# javarestapi
-REST API in java to insert and retrieve some data from a database table
+employeeAPI: 
+employee API is a Spring Boot-based web application that exposes RESTful web services APIs for create and retrieve details of employees on a MySQL database
